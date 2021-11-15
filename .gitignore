@@ -12,3 +12,4 @@ yarn.lock
 LICENSE
 src/schema.graphql
 src/models/generated
+src/db/tmp
